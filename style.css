@@ -66,9 +66,10 @@ body{
 }
 
 .border{
-    border: 1px solid #6B7082;
+    border: 1px solid #b8b8b8;
     width: 100%;
     margin-top: 40px;
+    opacity: 0.6;
 }
 
 
